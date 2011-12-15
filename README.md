@@ -16,6 +16,7 @@ Why?
 
 Discover it reading the history of my friend Clark Kent [here](https://gist.github.com/1385423). Portuguese version [here](https://gist.github.com/1385464).
 
+=======
 
 Getting Started
 ---------------
@@ -29,10 +30,8 @@ Then you must change the repository name to `yourUsername.github.com`.
 
 ### Step 3:
 Now you have to open the `index.html` and put your username on it.
-
-    <script>
-		$('body').hubMe({'username': 'yourUsername'});
-	</script>
+=======
+Now you have to open the `index.html` and change a single value on the bottom.
 
 Easy, huh?
 
@@ -52,11 +51,14 @@ For now you have 3 choices to customize it:
 * black
 
 And, of course, you can create your own theme and then send to us :)
+=======
+Easy huh?
 
 Credits
 ---------------
 * jQuery plugin built with [jQuery Boilerplate](http://jqueryboilerplate.com/)
 * Responsive design inspired by [Dinosaurs with Laserz](http://dinosaurswithlaserz.com/)
+=======
 
 License
 ---------------
@@ -74,3 +76,13 @@ License
 	TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
 	0. You just DO WHAT THE FUCK YOU WANT TO.
+ Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
+
+ Everyone is permitted to copy and distribute verbatim or modified
+ copies of this license document, and changing it is allowed as long
+ as the name is changed.
+
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+  0. You just DO WHAT THE FUCK YOU WANT TO.
